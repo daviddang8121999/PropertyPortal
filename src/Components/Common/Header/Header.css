@@ -1,0 +1,24 @@
+
+.header {
+  margin-top: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.header-top_logo {
+  display: flex;
+  justify-content: center;
+}
+
+.header-logo {
+  max-width: 300px;
+}
+
+.header-top_navbar {
+  display: flex;
+  flex:1;
+  flex-direction: column;
+}
+
+
